@@ -1,5 +1,7 @@
 /*******************************************************************************
+
 # What is Knapsack Problem?
-Knapsack ueses greedy approach to find th
-e optimal solution of a give problem.
+Knapsack uses greedy approach to find the optimal solution of a give problem.
+A knapsack is a container that can store a given amount of value.
+
 *******************************************************************************/
